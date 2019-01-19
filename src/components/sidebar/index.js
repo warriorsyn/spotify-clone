@@ -19,7 +19,6 @@ class Sidebar extends React.Component {
     }
 
     render() {
-        console.log(this.props.playlists);
         return (
             <Container>
                 <div>
